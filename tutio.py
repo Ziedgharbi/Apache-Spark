@@ -168,7 +168,6 @@ data.printSchema()
 data.columns
 
 
-
 #groupe variable or independant variable [Age,Experience]-------> new feature : independant
 
 from pyspark.ml.feature import VectorAssembler
